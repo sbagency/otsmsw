@@ -1,5 +1,12 @@
 # OTSMSW one-time signature multisig wallet
-One time signatures is a most secure method, private key is used only once. Mutlisig - multiple private keys are used to sign one transaction. Multisig keys can be managed by many independent signers.
+One-time signatures is a most secure method, private key is used only once. Mutlisig - multiple private keys are used to sign one transaction. Multisig keys can be managed by many independent signers.
+
+### competition
+[parity signer](https://www.parity.io/technologies/signer/)
+[gnosis safe](https://gnosis-safe.io/)
+[whcypher](https://www.whalesheaven.com/whcypher)
+
+A whole bunch of [ethereum wallets](https://ethereum.org/nl/wallets/find-wallet/)
 
 ### basics
 OTSMSW is a contract (EVM or any other). Number of signers (n), threshold (th) and initial accounts (next) are defined at deployment .  
