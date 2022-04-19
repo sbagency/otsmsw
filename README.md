@@ -62,3 +62,8 @@ node code/otsmsw.js --sign --to <addr> --value 0.01 [--pwdfile keys.pwd]
 # multisig transfer, data in sig.json
 node code/otsmsw.js --transfer [--pwdfile keys.pwd]
 ```
+
+##roadmap
+cli version  
+audit/refactoring  
+ui version  
