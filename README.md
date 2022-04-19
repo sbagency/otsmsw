@@ -15,9 +15,17 @@ More illustrated post [One-time multi-signatures to improve security](https://me
 
 
 ### setup
+```bash
+# install node, modules
+npm i
+```
 ```js
 // edit conf.js
 // setup provider, network, scrypt
+```
+```bash
+# build contract, solc must be installed
+./build-contracts.sh
 ```
 ### offline
 ```bash
